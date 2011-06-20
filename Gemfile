@@ -13,6 +13,9 @@ end
 
 group :test do
   gem 'rspec', '2.0.0'
+  gem 'webrat'
+  gem 'autotest'
+  gem 'spork'
 end
 
 group :production do
